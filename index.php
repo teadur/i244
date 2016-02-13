@@ -7,6 +7,7 @@
 <body>
 <h1>Võrgurakendused I <small>kaugõpe 2016 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
+<p>Õppejõud Mart Mangus / mart@mangus.ee</p>
 <h3>Loengud</h3>
 <p><a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid (14.02.2016)</a></p>
 <h3>Praktikumid</h3>
