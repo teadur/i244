@@ -8,9 +8,9 @@
 <h1>Võrgurakendused I <small>kaugõpe 2016 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
 <h3>Loengud</h3>
-<p>Siia tulevad viited loengute materjalidele</p>
+<p><a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid (14.02.2016)</a></p>
 <h3>Praktikumid</h3>
-<p><a href="praktikum1.php">Praktikum 1 (2016.02.14)</a></p>
+<p><a href="praktikum1.php">Praktikum 1 (14.02.2016)</a></p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
 <p>
