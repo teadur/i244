@@ -85,5 +85,12 @@
   Kui keegi tudeng on jututoas aktiivne abistaja, siis saab selle eest ka lisapunkte!
 </p>
 
+<h2>See lehekülg</h2>
+<p>
+  Kui leiad trükivea või tahad seda lehte niisama sisulisemaks/ilusamaks/huvitavamaks teha, siis palun väga:<br />
+  <a href="https://github.com/mangus/i244">tee pull request GitHub-is</a>.
+</p>
+<p>Asjalike täienduste eest lisapunktid garanteeritud.</p>
+
 </body>
 </html>
