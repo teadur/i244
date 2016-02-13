@@ -38,29 +38,89 @@
     </td>
     <td>28.02.2016 23:59</td>
   </tr><tr>
-    <td>3</td><td>CSS sissejuhatus</td><td>...</td><td>06.03.2016 23:59</td>
+    <td>3</td><td>CSS sissejuhatus</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
+    </td>
+    <td>06.03.2016 23:59</td>
   </tr><tr>
-    <td>4</td><td>Kujundus ja paigutus</td><td>...</td><td>13.03.2016 23:59</td>
+    <td>4</td><td>Kujundus ja paigutus</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
+    </td>
+    <td>13.03.2016 23:59</td>
   </tr><tr>
-    <td>5</td><td>Javascript</td><td>...</td><td>20.03.2016 23:59</td>
+    <td>5</td><td>Javascript</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
+    </td>
+    <td>20.03.2016 23:59</td>
   </tr><tr>
-    <td>6</td><td>jQuery</td><td>...</td><td>27.03.2016 23:59</td>
+    <td>6</td><td>jQuery</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
+    </td>
+    <td>27.03.2016 23:59</td>
   </tr><tr>
-    <td>7</td><td>PHP sissejuhatus</td><td>...</td><td>03.04.2016 23:59</td>
+    <td>7</td><td>PHP sissejuhatus</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
+    </td>
+    <td>03.04.2016 23:59</td>
   </tr><tr>
-    <td>8</td><td>Andmeside (GET ja POST)</td><td>...</td><td>10.04.2016 23:59</td>
+    <td>8</td><td>Andmeside (GET ja POST)</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
+    </td>
+    <td>10.04.2016 23:59</td>
   </tr><tr>
-    <td>9</td><td>MVC</td><td>...</td><td>17.04.2016 23:59</td>
+    <td>9</td><td>MVC</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
+    </td>
+    <td>17.04.2016 23:59</td>
   </tr><tr>
-    <td>10</td><td>Autentimine, küpsised, sessioonid</td><td>...</td><td>24.04.2016 23:59</td>
+    <td>10</td><td>Autentimine, küpsised, sessioonid</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
+    </td>
+    <td>24.04.2016 23:59</td>
   </tr><tr>
-    <td>11</td><td>MySQL</td><td>...</td><td>01.05.2016 23:59</td>
+    <td>11</td><td>MySQL</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
+    </td>
+    <td>01.05.2016 23:59</td>
   </tr><tr>
-    <td>12</td><td>MySQL + PHP</td><td>...</td><td>08.05.2016 23:59</td>
+    <td>12</td><td>MySQL + PHP</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
+    </td>
+    <td>08.05.2016 23:59</td>
   </tr><tr>
-    <td>13</td><td>MySQL + PHP (vol 2)</td><td>...</td><td>15.05.2016 23:59</td>
+    <td>13</td><td>MySQL + PHP (vol 2)</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
+    </td>
+    <td>15.05.2016 23:59</td>
   </tr><tr>
-    <td>14</td><td>Turvalisus</td><td>...</td><td>22.05.2016 23:59</td>
+    <td>14</td><td>Turvalisus</td>
+    <td>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
+      <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
+    </td>
+    <td>22.05.2016 23:59</td>
   </tr><tr>
     <td>15</td><td>...</td><td>...</td><td>29.05.2016 23:59</td>
   </tr><tr>
