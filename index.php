@@ -9,9 +9,14 @@
 <h2>Auditoorne õppetöö</h2>
 <p>Õppejõud Mart Mangus / mart@mangus.ee</p>
 <h3>Loengud</h3>
-<p><a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid (14.02.2016)</a></p>
+<p>
+  <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a></p>
 <h3>Praktikumid</h3>
-<p><a href="praktikum1.php">Praktikum 1 (14.02.2016)</a></p>
+<p>
+  <a href="praktikum1.php">Praktikum 1</a>
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a>
+</p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
 <p>
