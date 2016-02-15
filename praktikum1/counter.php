@@ -1,15 +1,7 @@
 <?php
-
-	$file = 'count.txt';
-
-	// Open the file to get existing content
+	$file = 'counter.txt';
 	$current = file_get_contents($file);
-
 	$current = $current + 1;
-
-	// Write the contents back to the file
 	file_put_contents($file, $current);
+	echo "Loenduri väärtus on: " . $current;
 
-	echo "Lehe külastuste arv on: " . $current;
-
-?>
