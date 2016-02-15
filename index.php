@@ -18,7 +18,7 @@
   Iga nädal tuleb iseseisvalt läbi töötada välja toodud teemad ning tehtud töö kohta saata aruanne. <a target="_blank" href="http://goo.gl/forms/SZ5ngxlN4m">Aruande saatmise vorm</a>.<br />
   Iga (korrektne) aruanne annab 2 punkti ja kokku moodustavad need aruanded 32% aine tulemusest.<br />
   Kui viidatud materjalidest jääb väheks, siis uuri ja otsi ise internetist juurde.<br />
-  Võid vaadata ka päevaõppe paraktikumide salvestusi, mis leiad <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">kuskilt siit</a>.
+  Võid vaadata ka päevaõppe praktikumide salvestusi, mis leiad <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">kuskilt siit</a>.
 </p>
 <table>
   <tr>
