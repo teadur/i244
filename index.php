@@ -46,6 +46,7 @@
   </tr><tr>
     <td>3</td><td>CSS sissejuhatus</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/8d99fbf2-3cb1-4004-9cda-15104397c27b?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
     </td>
@@ -53,6 +54,7 @@
   </tr><tr>
     <td>4</td><td>Kujundus ja paigutus</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/c2503f9e-bf75-4f32-ad8f-7e9816ca75dd?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
     </td>
@@ -60,6 +62,7 @@
   </tr><tr>
     <td>5</td><td>Javascript</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">leia loeng siit</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
     </td>
@@ -67,6 +70,7 @@
   </tr><tr>
     <td>6</td><td>jQuery</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">leia loeng siit</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
     </td>
@@ -136,6 +140,15 @@
 
 <h3>Kodune projekt</h3>
 <p>Täpsemad nõudmised projektile tulevad siia semestri lõpu poole.</p>
+<p>Olulised punktid on:
+  <ul>
+    <li>kood versioonihalduses juba projekti alguses,</li>
+    <li>andmebaasi kasutamine,</li>
+    <li>HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses,</li>
+    <li>rakenduse turvalisus,</li>
+    <li>koodide vastamine standarditele (HTML validaator jne).</li>
+  </ul>
+</p>
 <h4>Oluline info edasijõudnutele</h4>
 <p>
   Kes tunneb, et valdab juba praegu teemat piisavalt võib esitada kodutöö 31.-ks märtsiks 2016.<br />
