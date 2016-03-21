@@ -70,7 +70,7 @@
   </tr><tr>
     <td>6</td><td>jQuery</td>
     <td>
-      <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">leia loeng siit</a>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/f1b93c7b-97af-4f69-a3e5-29f1b036ba6f">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
     </td>
