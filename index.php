@@ -62,7 +62,7 @@
   </tr><tr>
     <td>5</td><td>Javascript</td>
     <td>
-      <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">leia loeng siit</a>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/74f2fadf-f5c5-4747-83cb-784046ecd33e">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
     </td>
@@ -78,6 +78,7 @@
   </tr><tr>
     <td>7</td><td>PHP sissejuhatus</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/b10bbe40-daf0-4110-b172-20c344176c52">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
     </td>
@@ -85,6 +86,7 @@
   </tr><tr>
     <td>8</td><td>Andmeside (GET ja POST)</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/b654af75-5831-413e-bc1d-b8372f0fc724">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
     </td>
