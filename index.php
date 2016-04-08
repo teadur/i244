@@ -13,8 +13,15 @@
   <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a></p>
 <h3>Praktikumid</h3>
+<!--
+	Praktikum 1: Kiire ülevaade
+	Praktikum 2: CSS + Javascript
+	Praktikum 3: PHP + MySQL
+	Praktikum 4: MySQL indeksid ja optimeerimine
+	Praktikum 5: Turvalisus
+-->
 <p>
-  <a href="praktikum1.php">Praktikum 1</a>
+  <a href="praktikum1/">Praktikum 1</a>
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a>
 </p>
 <h2>Iseseisev töö</h2>
