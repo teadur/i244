@@ -11,7 +11,13 @@
 <h3>Loengud</h3>
 <p>
   <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
-  <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a></p>
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a>
+</p>
+<p>
+  <a href="http://mart.mangus.ee/loengud/i244-teine/">Teise loengu slaidid</a>
+  <a href="http://goo.gl/9ZT6Xt">Responsive disain slaidid</a>
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/ccefe67e-671d-41bb-b647-ec7e55202e7e">salvestus (09.04.2016)</a>
+</p>
 <h3>Praktikumid</h3>
 <!--
 	Praktikum 1: Kiire ülevaade
@@ -23,6 +29,9 @@
 <p>
   <a href="praktikum1/">Praktikum 1</a>
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a>
+</p>
+<p>
+  <a href="praktikum2/">Praktikum 2</a>
 </p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
@@ -148,22 +157,31 @@
 </table>
 
 <h3>Kodune projekt</h3>
-<p>Täpsemad nõudmised projektile tulevad siia semestri lõpu poole.</p>
+<p>Kodune projekt koosneb kahest osast:
+  <ol>
+    <li>sinu enda projekt, esitamise tähtaeg 01.06.2016 23:59;</li>
+    <li>kolm projekti retsensiooni (02.06.2016 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 08.06.2016 23:59.</li>
+  </ol>
+</p>
 <p>Olulised punktid on:
   <ul>
     <li>kood versioonihalduses juba projekti alguses,</li>
+    <li>töötav demo rakendus avalikult ligipääsetav,</li>
     <li>andmebaasi kasutamine,</li>
     <li>HTML-i, CSS-i ja Javascripti kasutamine kasutajaliideses,</li>
     <li>rakenduse turvalisus,</li>
     <li>koodide vastamine standarditele (HTML validaator jne).</li>
   </ul>
 </p>
+
+<!--
 <h4>Oluline info edasijõudnutele</h4>
 <p>
   Kes tunneb, et valdab juba praegu teemat piisavalt võib esitada kodutöö 31.-ks märtsiks 2016.<br />
   Enneaegselt esitatud (asjaliku) töö eest saab topelt punktid ning see võimaldab hea hinde saada ka lihtsamaid iganädalaseid aruandeid tegemata.<br />
   Kui Sa ei ole kindel, kas valdad teemat piisavalt hästi, siis tee siiski iganädalaseid töid ja esita kodune projekt õigel ajal.
 </p>
+-->
 
 
 <h3>Jututuba</h3>
