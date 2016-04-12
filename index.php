@@ -7,7 +7,7 @@
 <body>
 <h1>Võrgurakendused I <small>kaugõpe 2016 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
-<p>Õppejõud Mart Mangus / mart@mangus.ee</p>
+<p>&Otilde;ppejõud Mart Mangus / mart@mangus.ee</p>
 <h3>Loengud</h3>
 <p>
   <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
@@ -164,6 +164,7 @@
     <li>sinu enda projekt, esitamise tähtaeg 01.06.2016 23:59;</li>
     <li>kolm projekti retsensiooni (02.06.2016 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 08.06.2016 23:59.</li>
   </ol>
+Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.
 </p>
 <p>Olulised punktid on:
   <ul>
