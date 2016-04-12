@@ -110,6 +110,7 @@
   </tr><tr>
     <td>9</td><td>MVC</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/48a8bc31-1e75-45cc-953b-6d97ed312ffa">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
     </td>
@@ -117,6 +118,7 @@
   </tr><tr>
     <td>10</td><td>Autentimine, küpsised, sessioonid</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/4e19d63a-ccb2-46c1-b782-e3fa55542488">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
     </td>
