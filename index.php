@@ -33,6 +33,9 @@
 <p>
   <a href="praktikum2/">Praktikum 2</a>
 </p>
+<p>
+  <a href="praktikum34/">Praktikumid 3 ja 4</a>
+</p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
 <p>
