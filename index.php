@@ -162,8 +162,6 @@
     <td>15</td><td colspan="2">Tegele koduse projektiga, aruandes kirjuta progressist</td><td>29.05.2016 23:59</td>
   </tr><tr>
     <td>16</td><td>Retsenseeritavate projektide turvatestimine</td><td></td><td>05.06.2016 23:59</td>
-    <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
-    <a href="https://echo360.e-ope.ee/ess/echo/presentation/ccefe67e-671d-41bb-b647-ec7e55202e7e">salvestus (09.04.2016)</a>
   </tr>
 </table>
 
