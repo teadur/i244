@@ -129,6 +129,7 @@
   </tr><tr>
     <td>11</td><td>MySQL</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/81b6ba94-d5ca-4506-bea4-728b3164d902?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
     </td>
@@ -136,6 +137,7 @@
   </tr><tr>
     <td>12</td><td>MySQL + PHP</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/01a81925-3d5c-4e8f-b040-55cdecbfd25a?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
     </td>
@@ -143,6 +145,7 @@
   </tr><tr>
     <td>13</td><td>MySQL + PHP (vol 2)</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/16b69ed9-a630-41a3-a24b-1f1373811f46?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
     </td>
@@ -150,6 +153,7 @@
   </tr><tr>
     <td>14</td><td>Turvalisus</td>
     <td>
+      <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e069ed7-b3d9-4656-91ba-0209bb203686?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
     </td>
