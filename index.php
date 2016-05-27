@@ -161,7 +161,7 @@
   </tr><tr>
     <td>15</td><td colspan="2">Tegele koduse projektiga, aruandes kirjuta progressist</td><td>29.05.2016 23:59</td>
   </tr><tr>
-    <td>16</td><td>Retsenseeritavate projektide turvatestimine</td><td></td><td>05.06.2016 23:59</td>
+    <td>16</td><td colspan="2">Retsenseeritavate projektide turvatestimine</td><td>05.06.2016 23:59</td>
   </tr>
 </table>
 
