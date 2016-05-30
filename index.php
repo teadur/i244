@@ -19,13 +19,6 @@
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/ccefe67e-671d-41bb-b647-ec7e55202e7e">salvestus (09.04.2016)</a>
 </p>
 <h3>Praktikumid</h3>
-<!--
-	Praktikum 1: Kiire ülevaade
-	Praktikum 2: CSS + Javascript
-	Praktikum 3: PHP + MySQL
-	Praktikum 4: MySQL indeksid ja optimeerimine
-	Praktikum 5: Turvalisus
--->
 <p>
   <a href="praktikum1/">Praktikum 1</a>
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a>
@@ -38,6 +31,7 @@
 </p>
 <p>
   <a href="praktikum5/">Praktikumid 5</a>
+  <a href="https://echo360.e-ope.ee/ess/echo/presentation/aa2739c8-e244-42f7-9026-db4addf16243">salvestus (28.05.2016)</a>
 </p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
@@ -185,6 +179,7 @@ Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseeri
     <li>rakenduse turvalisus,</li>
     <li>koodide vastamine standarditele (HTML validaator jne).</li>
   </ul>
+  <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p>
 </p>
 <h3>Eksam</h3>
 <p>
