@@ -31,6 +31,7 @@
 </p>
 <p>
   <a href="praktikum5/">Praktikumid 5</a>
+  <a href="praktikum5/presentation.pptx">Grigori slaidid</a>
   <a href="https://echo360.e-ope.ee/ess/echo/presentation/aa2739c8-e244-42f7-9026-db4addf16243">salvestus (28.05.2016)</a>
 </p>
 <h2>Iseseisev töö</h2>
