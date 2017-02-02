@@ -27,6 +27,31 @@ class Project extends DB {
         $stmt->execute() or die($stmt->error);
     }
 
+    public function findByEmail($email) {
+        $stmt = $this->mysqli->prepare("SELECT id FROM mamangus_projects WHERE email LIKE ? LIMIT 1") or die($mysqli->error);
+        $stmt->bind_param('s', $email) or die($stmt->error);
+        $stmt->execute() or die($stmt->error);
+        $result = $stmt->get_result();
+        $res = $result->fetch_array();
+		$this->id = $res['id'];
+    }
+
+    public function getReviews() {
+    	$reviews = array();
+		if ($handle = opendir('/home/mamangus/db/i244_project_upload/')) {
+		    while (false !== ($entry = readdir($handle))) {
+				if ($entry != "." && $entry != "..") {
+				    $parts = explode('__', $entry);
+				    if ($parts[0] == $this->id) {
+				    	$reviews []= $entry;
+				    }
+				}
+		    }
+		    closedir($handle);
+		}
+		return $reviews;
+    }
+
 }
 
 ?>

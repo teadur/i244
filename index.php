@@ -5,40 +5,24 @@
   <title>I244 kaugõpe</title>
 </head>
 <body>
-<h1>Võrgurakendused I <small>kaugõpe 2016 kevadsemester</small></h1>
+<h1>Võrgurakendused I <small>kaugõpe 2017 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
 <p>&Otilde;ppejõud Mart Mangus / mart@mangus.ee</p>
 <h3>Loengud</h3>
 <p>
   <a href="http://mart.mangus.ee/loengud/i244-esimene.html">Esimese loengu slaidid</a>
-  <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a>
-</p>
-<p>
-  <a href="http://mart.mangus.ee/loengud/i244-teine/">Teise loengu slaidid</a>
-  <a href="http://goo.gl/9ZT6Xt">Responsive disain slaidid</a>
-  <a href="https://echo360.e-ope.ee/ess/echo/presentation/ccefe67e-671d-41bb-b647-ec7e55202e7e">salvestus (09.04.2016)</a>
+  <!-- <a href="https://echo360.e-ope.ee/ess/echo/presentation/3e82cc85-4eee-4278-92b6-b15627145f7d">salvestus (14.02.2016)</a> -->
 </p>
 <h3>Praktikumid</h3>
 <p>
   <a href="praktikum1/">Praktikum 1</a>
-  <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a>
-</p>
-<p>
-  <a href="praktikum2/">Praktikum 2</a>
-</p>
-<p>
-  <a href="praktikum34/">Praktikumid 3 ja 4</a>
-</p>
-<p>
-  <a href="praktikum5/">Praktikumid 5</a>
-  <a href="praktikum5/presentation.pptx">Grigori slaidid</a>
-  <a href="https://echo360.e-ope.ee/ess/echo/presentation/aa2739c8-e244-42f7-9026-db4addf16243">salvestus (28.05.2016)</a>
+  <!-- <a href="https://echo360.e-ope.ee/ess/echo/presentation/0ce7cec5-6ba9-463e-bd3b-c769dfb446bb">salvestus (14.02.2016)</a> -->
 </p>
 <h2>Iseseisev töö</h2>
 <h3>Iganädalased kodused tööd</h3>
 <p>
   Iga nädal tuleb iseseisvalt läbi töötada välja toodud teemad ning tehtud töö kohta saata aruanne. <a target="_blank" href="http://goo.gl/forms/SZ5ngxlN4m">Aruande saatmise vorm</a>.<br />
-  Iga (korrektne) aruanne annab 2 punkti ja kokku moodustavad need aruanded 32% aine tulemusest.<br />
+  Iga (korrektne) aruanne annab 2 punkti ja kokku moodustavad need aruanded 30% aine tulemusest.<br />
   Kui viidatud materjalidest jääb väheks, siis uuri ja otsi ise internetist juurde.<br />
   Võid vaadata ka päevaõppe praktikumide salvestusi, mis leiad <a href="https://echo360.e-ope.ee/ess/portal/section/88b1a22f-7260-4f6e-823c-451034853ea6">kuskilt siit</a>.
 </p>
@@ -51,7 +35,7 @@
       <a href="https://echo360.e-ope.ee/ess/echo/presentation/7e9c8258-3664-4b9e-b487-dfbae7c5dcf9?ec=true">loeng</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax01/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/01/ylesanne.html">ülesanne</a>
-    </td><td>21.02.2016 23:59</td>
+    </td><td>19.02.2017 23:59</td>
   </tr><tr>
     <td>2</td><td>HTML-i keerukamad osad</td>
     <td>
@@ -59,7 +43,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax02/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/02/ylesanne.html">ülesanne</a>
     </td>
-    <td>28.02.2016 23:59</td>
+    <td>26.02.2017 23:59</td>
   </tr><tr>
     <td>3</td><td>CSS sissejuhatus</td>
     <td>
@@ -67,7 +51,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax03/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/03/ylesanne.html">ülesanne</a>
     </td>
-    <td>06.03.2016 23:59</td>
+    <td>05.03.2017 23:59</td>
   </tr><tr>
     <td>4</td><td>Kujundus ja paigutus</td>
     <td>
@@ -75,7 +59,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax04/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/04/ylesanne.html">ülesanne</a>
     </td>
-    <td>13.03.2016 23:59</td>
+    <td>12.03.2017 23:59</td>
   </tr><tr>
     <td>5</td><td>Javascript</td>
     <td>
@@ -83,7 +67,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax05/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/05/ylesanne.html">ülesanne</a>
     </td>
-    <td>20.03.2016 23:59</td>
+    <td>19.03.2017 23:59</td>
   </tr><tr>
     <td>6</td><td>jQuery</td>
     <td>
@@ -91,7 +75,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax06/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/06/ylesanne.html">ülesanne</a>
     </td>
-    <td>27.03.2016 23:59</td>
+    <td>26.03.2017 23:59</td>
   </tr><tr>
     <td>7</td><td>PHP sissejuhatus</td>
     <td>
@@ -99,7 +83,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax07/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/07/ylesanne.html">ülesanne</a>
     </td>
-    <td>03.04.2016 23:59</td>
+    <td>02.04.2017 23:59</td>
   </tr><tr>
     <td>8</td><td>Andmeside (GET ja POST)</td>
     <td>
@@ -107,7 +91,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax08/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/08/ylesanne.html">ülesanne</a>
     </td>
-    <td>10.04.2016 23:59</td>
+    <td>09.04.2017 23:59</td>
   </tr><tr>
     <td>9</td><td>MVC</td>
     <td>
@@ -115,7 +99,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax09/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/09/ylesanne.html">ülesanne</a>
     </td>
-    <td>17.04.2016 23:59</td>
+    <td>16.04.2017 23:59</td>
   </tr><tr>
     <td>10</td><td>Autentimine, küpsised, sessioonid</td>
     <td>
@@ -123,7 +107,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax10/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/10/ylesanne.html">ülesanne</a>
     </td>
-    <td>24.04.2016 23:59</td>
+    <td>23.04.2017 23:59</td>
   </tr><tr>
     <td>11</td><td>MySQL</td>
     <td>
@@ -131,7 +115,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax11/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/11/ylesanne.html">ülesanne</a>
     </td>
-    <td>01.05.2016 23:59</td>
+    <td>30.04.2017 23:59</td>
   </tr><tr>
     <td>12</td><td>MySQL + PHP</td>
     <td>
@@ -139,7 +123,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax12/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/12/ylesanne.html">ülesanne</a>
     </td>
-    <td>08.05.2016 23:59</td>
+    <td>07.05.2017 23:59</td>
   </tr><tr>
     <td>13</td><td>MySQL + PHP (vol 2)</td>
     <td>
@@ -147,7 +131,7 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax13/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/13/ylesanne.html">ülesanne</a>
     </td>
-    <td>15.05.2016 23:59</td>
+    <td>14.05.2017 23:59</td>
   </tr><tr>
     <td>14</td><td>Turvalisus</td>
     <td>
@@ -155,19 +139,17 @@
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Praktikumid/prax14/ylesanne.html">praktikum</a>
       <a href="http://enos.itcollege.ee/~ttanav/VRI/Kodused/14/ylesanne.html">ülesanne</a>
     </td>
-    <td>22.05.2016 23:59</td>
+    <td>21.05.2017 23:59</td>
   </tr><tr>
-    <td>15</td><td colspan="2">Tegele koduse projektiga, aruandes kirjuta progressist</td><td>29.05.2016 23:59</td>
-  </tr><tr>
-    <td>16</td><td colspan="2">Retsenseeritavate projektide turvatestimine</td><td>05.06.2016 23:59</td>
+    <td>15</td><td colspan="2">Tegele koduse projektiga, aruandes kirjuta progressist</td><td>28.05.2017 23:59</td>
   </tr>
 </table>
 
 <h3>Kodune projekt</h3>
 <p>Kodune projekt koosneb kahest osast:
   <ol>
-    <li>sinu enda projekt, esitamise tähtaeg 01.06.2016 23:59;</li>
-    <li>kolm projekti retsensiooni (02.06.2016 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 08.06.2016 23:59.</li>
+    <li>sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
+    <li>kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 04.06.2017 23:59.</li>
   </ol>
 Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.
 </p>
@@ -180,23 +162,19 @@ Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseeri
     <li>rakenduse turvalisus,</li>
     <li>koodide vastamine standarditele (HTML validaator jne).</li>
   </ul>
-  <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p>
+  <!-- <p><a href="projekt/esitamine.php">Koduse projekti esitamise vorm</a></p> -->
 </p>
 <h3>Eksam</h3>
 <p>
   Eksamil tuleb iseseisvalt lahendada praktiline ülesanne. Selleks on vaja osata kasutada HTML-i, CSS-i, Javascript-i, MySQL-i ja PHP-d.<br />
   Tulemuste esitamine käib läbi versioonihalduse (git), niiet selle kasutamise oskus on hädavajalik.<br />
-  Eksam moodustab 38% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik ainet läbida.
+  Eksam moodustab 40% aine hindest. Eksami läbimisel on lävend, ehk alla 50%-se tulemusega ei ole võimalik ainet läbida.
 </p>
-<!--
-<h4>Oluline info edasijõudnutele</h4>
+<h4>Info edasijõudnutele</h4>
 <p>
-  Kes tunneb, et valdab juba praegu teemat piisavalt võib esitada kodutöö 31.-ks märtsiks 2016.<br />
-  Enneaegselt esitatud (asjaliku) töö eest saab topelt punktid ning see võimaldab hea hinde saada ka lihtsamaid iganädalaseid aruandeid tegemata.<br />
-  Kui Sa ei ole kindel, kas valdad teemat piisavalt hästi, siis tee siiski iganädalaseid töid ja esita kodune projekt õigel ajal.
+  Kui aine teemad on sinu jaoks väga lihtsad, siis on võimalik asendada iganädalased kodused tööd (30% aine hindest) väikese (10-15 minutit) esitlusega enda valitud teemal.<br />
+  Selle võimaluse kasutamiseks tuleb teema õppejõuga kooskõlastada hiljemalt 1. aprilliks.
 </p>
--->
-
 
 <h3>Jututuba</h3>
 <p>

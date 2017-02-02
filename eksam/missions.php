@@ -3,6 +3,8 @@
 class MyMission {
 
 	private $missions = array(
+
+		/* põhieksam 12.06.2016 */
 		"Loo lihtne kommentaaride lisamise vorm. Andmed salvesta andmebaasi. Kuva salvestaud kommentaare.",
 		"Loo lihtne kommentaaride lisamise vorm. Andmed salvesta tekstifaili. Kuva salvestatud kommentaare.",
 		"Loo lihtne veebilehe külastajate loendur. Andmed salvesta andmebaasi. Kuva lehel külastuste arvu.",
@@ -17,16 +19,29 @@ class MyMission {
 		"Loo leheküljele \"like\" nupp. Kuva välja \"like\"-ide arvu. Andmed salvesta tekstifaili.",
 		"Loo veebilehekülg, mis kuvab kasutajale, mitmendat korda kasutaja lehekülge külastab.",
 		"Loo veebilehekülg, mis kuvab kasutajale, kuna kasutaja viimati seda veebilehte külastas.",
-		"Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad."
+		"Loo veebilehekülg, mis kuvab, kas kasutaja kell on õige (ehk serveri kellaga sama). Kuva lehel ka mõlemad kellaajad.",
+
+		/* Järeleksam 17.06.2016 */
+		"Loo lihtne lehekülg märkmete tegemiseks. Igal kasutajal on oma isiklikud märkmed.",
+		"Loo lihtne lehekülg märkmete tegemiseks. Kõik kasutajad näevad ja muudavad samu märkmeid.",
+		"Loo lihtne hääletuse süsteem. Kasutaja saab hääletada kas \"jah\"/\"ei\". Kuva välja \"jah\"-ide ja \"ei\"-de arv.",
+		"Loo lihtne kalkulaator, mis arvutab täisnurkse kolmnurga kahe kaateti järgi välja hüpotenuusi pikkuse.",
+		"Loo lihtne lehekülg, mis kuvab välja kõik selle lehe külastuste ajad."
+
+		/* Järeleksam 22.08.2016 */
+		// Kõik eelnevad ülesanded
+
 	);
 	private $my;
 
+	const COOKIE_NAME = "mymission3";
+
 	public function __construct() {
-		if (!isset($_COOKIE["mymission"])) {
+		if (!isset($_COOKIE[self::COOKIE_NAME])) {
 			$this->my = $this->missions[array_rand($this->missions)];
-			setcookie("mymission", $this->my, time()+3600*24);
+			setcookie(self::COOKIE_NAME, $this->my, time()+3600*24);
 		} else {
-			$this->my = $_COOKIE["mymission"];
+			$this->my = $_COOKIE[self::COOKIE_NAME];
 		}
 	}
 
