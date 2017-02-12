@@ -22,7 +22,8 @@
   <li>Loo oma arvutis lihtne <em>HTML</em> lehekülg. Lisa lehele ka mõni pilt.</li>
   <li>Laadi leht ülesse <em>enos.itcollege.ee</em> serverisse.</li>
   <li>Lisa lehele <em>CSS</em> fail ja muuda loodud lehekülg ilusamaks.</li>
-  <li>Võta kasutsele <em>PHP</em>. Muuda on <em>HTML</em> fail <em>PHP</em> failiks ning pane see kuvama serveris kasutatavat <em>PHP</em> versiooni (näiteks läbi <a href="http://php.net/manual/en/function.phpversion.php">phpversion()</a> meetodi).</li>
+  <li>Võta kasutsele <em>PHP</em>. Muuda oma <em>HTML</em> fail <em>PHP</em> failiks ning pane see kuvama serveris kasutatavat <em>PHP</em> versiooni (näiteks läbi <a href="http://php.net/manual/en/function.phpversion.php">phpversion()</a> meetodi).</li>
+  <li>Võta kasutsele <em>PHP</em>. Muuda <em>HTML</em> fail <em>PHP</em> failiks ning pane see kuvama serveris kasutatavat <em>PHP</em> versiooni (näiteks läbi <a href="http://php.net/manual/en/function.phpversion.php">phpversion()</a> meetodi).</li>
   <li>Logi sisse <em>MySQL</em> serverisse ja loo seal üks lihtne tabel.</li>
   <li style="text-decoration: underline">Pane kogu oma kirjutatud kood versioonihaldusesse. (Väga oluline punkt!)</li>
   <li>Tee lehele midagi huvitavat kasutades <em>Javascript</em>-i. Näiteks tee kell, mis loendab, mitu sekundit on praktikumi lõpuni vms :)</li>

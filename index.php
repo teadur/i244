@@ -3,8 +3,13 @@
 <head>
   <meta charset="utf-8">
   <title>I244 kaugõpe</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+  <link rel="stylesheet" href="css/geocities/geocities.css">
 </head>
 <body>
+<div style="color: white">Üks tudeng tegi aine kodulehte natuke "ilusamaks" -- kui on väga hull, siis palun muuda paremaks ja tee pull request õppejõule!</div>
 <h1>Võrgurakendused I <small>kaugõpe 2017 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
 <p>&Otilde;ppejõud Mart Mangus / mart@mangus.ee</p>
@@ -151,7 +156,7 @@
     <li>sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
     <li>kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 04.06.2017 23:59.</li>
   </ol>
-Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.
+<p>Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
 </p>
 <p>Olulised punktid on:
   <ul>
@@ -178,7 +183,7 @@ Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseeri
 
 <h3>Jututuba</h3>
 <p>
-  Kui tegeled aine teemadega, siis ilmuta end ka <a href="https://chatlink.com/#i244">jututoas</a>!<br />
+  Kui tegeled aine teemadega, siis ilmuta end ka <a href="https://gitter.im/i244/">jututoas</a>!<br />
   Saab kaastudengitega suhelda ja abi küsida. Kui väga läbuks ei lähe, siis jälgib seda ka õppejõud ning püüab abistada.<br />
   Kui keegi tudeng on jututoas aktiivne abistaja, siis saab selle eest ka lisapunkte!
 </p>

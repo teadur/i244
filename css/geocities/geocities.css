@@ -1,0 +1,51 @@
+body {
+    background-image: url("spooky-halloween-mist-seamless-repeating-background.jpg");
+    background-repeat: repeat;
+}
+
+h1, h2, h3 {
+    font-family: 'Cuprum';
+    text-align: center;
+    color: white; 
+}
+
+h1:before {
+    padding: 0 20px;
+    content: url(flamingskull.gif);
+}
+h1:after {
+    padding: 0 20px;
+    content: url(flamingskull.gif);
+}
+
+p, table {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+ol, ul, td, tr {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+a:link {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+a:active {
+    color: orange;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: chartreuse;
+    text-decoration: none;
+}
+
