@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="css/geocities/geocities.css">
 </head>
 <body>
+<div style="color: white">Üks tudeng tegi aine kodulehte natuke "ilusamaks" -- kui on väga hull, siis palun muuda paremaks ja tee pull request õppejõule!</div>
 <h1>Võrgurakendused I <small>kaugõpe 2017 kevadsemester</small></h1>
 <h2>Auditoorne õppetöö</h2>
 <p>&Otilde;ppejõud Mart Mangus / mart@mangus.ee</p>
