@@ -3,6 +3,10 @@
 <head>
   <meta charset="utf-8">
   <title>I244 kaugõpe</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Cuprum" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
+  <link rel="stylesheet" href="css/geocities/geocities.css">
 </head>
 <body>
 <h1>Võrgurakendused I <small>kaugõpe 2017 kevadsemester</small></h1>
@@ -151,7 +155,7 @@
     <li>sinu enda projekt, esitamise tähtaeg 29.05.2017 23:59;</li>
     <li>kolm projekti retsensiooni (30.05.2017 saadab õppejõud retsenseeritavad tööd), esitamise tähtaeg 04.06.2017 23:59.</li>
   </ol>
-Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.
+<p>Ehk kodust projekti ei ole vaja klassis kaitsta aga see eest on vaja retsenseerida kolme t&ouml;&ouml;d.</p>
 </p>
 <p>Olulised punktid on:
   <ul>
