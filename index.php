@@ -182,7 +182,7 @@
 
 <h3>Jututuba</h3>
 <p>
-  Kui tegeled aine teemadega, siis ilmuta end ka <a href="https://chatlink.com/#i244">jututoas</a>!<br />
+  Kui tegeled aine teemadega, siis ilmuta end ka <a href="https://gitter.im/i244/">jututoas</a>!<br />
   Saab kaastudengitega suhelda ja abi küsida. Kui väga läbuks ei lähe, siis jälgib seda ka õppejõud ning püüab abistada.<br />
   Kui keegi tudeng on jututoas aktiivne abistaja, siis saab selle eest ka lisapunkte!
 </p>
